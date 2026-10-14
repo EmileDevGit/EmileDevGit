@@ -19,7 +19,7 @@ Développeur logiciel
 **Langages**
 
 <!-- SKILLS:LANGUAGES:START -->
-![Langages](https://skillicons.dev/icons?i=ts,js,css,kotlin,py,php)
+![Langages](https://skillicons.dev/icons?i=ts,cs,js,css,kotlin,py,php)
 <!-- SKILLS:LANGUAGES:END -->
 
 **Frameworks & librairies**
