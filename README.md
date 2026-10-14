@@ -51,5 +51,13 @@ Développeur logiciel
 
 ## Stats
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=EmileDevGit&show_icons=true&theme=default)
-![Streak GitHub](https://github-readme-streak-stats.herokuapp.com/?user=EmileDevGit)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EmileDevGit&show_icons=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=EmileDevGit&show_icons=true&theme=default">
+  <img alt="Stats GitHub" src="https://github-readme-stats.vercel.app/api?username=EmileDevGit&show_icons=true&theme=default">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EmileDevGit&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EmileDevGit&theme=default">
+  <img alt="Streak GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=EmileDevGit&theme=default">
+</picture>
