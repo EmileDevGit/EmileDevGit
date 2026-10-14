@@ -1,0 +1,7 @@
+[
+  { "slug": "docker", "source": "language-bytes", "key": "Dockerfile" },
+  { "slug": "mysql", "source": "dependency", "names": ["mysql", "mysql2", "mysqlclient"] },
+  { "slug": "postgres", "source": "dependency", "names": ["pg", "psycopg2", "postgres"] },
+  { "slug": "gradle", "source": "file-exists", "paths": ["build.gradle", "build.gradle.kts"] },
+  { "slug": "androidstudio", "source": "file-exists", "paths": ["app/src/main/AndroidManifest.xml"] }
+]

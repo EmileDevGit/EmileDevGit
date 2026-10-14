@@ -1,0 +1,20 @@
+{
+  "Kotlin": "kotlin",
+  "TypeScript": "ts",
+  "JavaScript": "js",
+  "Python": "py",
+  "PHP": "php",
+  "CSS": "css",
+  "HTML": "html",
+  "Java": "java",
+  "C": "c",
+  "C++": "cpp",
+  "C#": "cs",
+  "Go": "go",
+  "Rust": "rust",
+  "Swift": "swift",
+  "Dart": "dart",
+  "Ruby": "ruby",
+  "SCSS": "sass",
+  "Vue": "vue"
+}

@@ -18,15 +18,21 @@ Développeur logiciel
 
 **Langages**
 
+<!-- SKILLS:LANGUAGES:START -->
 ![Langages](https://skillicons.dev/icons?i=kotlin,ts,js,py,php,css)
+<!-- SKILLS:LANGUAGES:END -->
 
 **Frameworks & librairies**
 
+<!-- SKILLS:FRAMEWORKS:START -->
 ![Frameworks & librairies](https://skillicons.dev/icons?i=next,react,tailwind,prisma,fastapi)
+<!-- SKILLS:FRAMEWORKS:END -->
 
 **Outils & plateformes**
 
+<!-- SKILLS:TOOLS:START -->
 ![Outils & plateformes](https://skillicons.dev/icons?i=docker,mysql,postgres,git,github,gitlab,gradle,androidstudio)
+<!-- SKILLS:TOOLS:END -->
 
 ---
 

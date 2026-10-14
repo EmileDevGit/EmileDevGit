@@ -18,15 +18,21 @@ Software developer
 
 **Languages**
 
+<!-- SKILLS:LANGUAGES:START -->
 ![Languages](https://skillicons.dev/icons?i=kotlin,ts,js,py,php,css)
+<!-- SKILLS:LANGUAGES:END -->
 
 **Frameworks & libraries**
 
+<!-- SKILLS:FRAMEWORKS:START -->
 ![Frameworks & libraries](https://skillicons.dev/icons?i=next,react,tailwind,prisma,fastapi)
+<!-- SKILLS:FRAMEWORKS:END -->
 
 **Tools & platforms**
 
+<!-- SKILLS:TOOLS:START -->
 ![Tools & platforms](https://skillicons.dev/icons?i=docker,mysql,postgres,git,github,gitlab,gradle,androidstudio)
+<!-- SKILLS:TOOLS:END -->
 
 ---
 

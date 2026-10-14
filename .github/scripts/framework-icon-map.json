@@ -1,0 +1,14 @@
+{
+  "next": "next",
+  "react": "react",
+  "tailwindcss": "tailwind",
+  "prisma": "prisma",
+  "fastapi": "fastapi",
+  "express": "express",
+  "vue": "vue",
+  "nuxt": "nuxt",
+  "@angular/core": "angular",
+  "svelte": "svelte",
+  "django": "django",
+  "flask": "flask"
+}
