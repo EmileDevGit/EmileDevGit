@@ -19,19 +19,19 @@ Software developer
 **Languages**
 
 <!-- SKILLS:LANGUAGES:START -->
-![Languages](https://skillicons.dev/icons?i=kotlin,ts,js,py,php,css)
+![Languages](https://skillicons.dev/icons?i=ts,js,css,kotlin,py,php)
 <!-- SKILLS:LANGUAGES:END -->
 
 **Frameworks & libraries**
 
 <!-- SKILLS:FRAMEWORKS:START -->
-![Frameworks & libraries](https://skillicons.dev/icons?i=next,react,tailwind,prisma,fastapi)
+![Frameworks & libraries](https://skillicons.dev/icons?i=next,prisma,react,tailwind,fastapi)
 <!-- SKILLS:FRAMEWORKS:END -->
 
 **Tools & platforms**
 
 <!-- SKILLS:TOOLS:START -->
-![Tools & platforms](https://skillicons.dev/icons?i=docker,mysql,postgres,git,github,gitlab,gradle,androidstudio)
+![Tools & platforms](https://skillicons.dev/icons?i=git,github,gitlab,docker,postgres,mysql,gradle,androidstudio)
 <!-- SKILLS:TOOLS:END -->
 
 ---

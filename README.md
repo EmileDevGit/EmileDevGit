@@ -19,19 +19,19 @@ Développeur logiciel
 **Langages**
 
 <!-- SKILLS:LANGUAGES:START -->
-![Langages](https://skillicons.dev/icons?i=kotlin,ts,js,py,php,css)
+![Langages](https://skillicons.dev/icons?i=ts,js,css,kotlin,py,php)
 <!-- SKILLS:LANGUAGES:END -->
 
 **Frameworks & librairies**
 
 <!-- SKILLS:FRAMEWORKS:START -->
-![Frameworks & librairies](https://skillicons.dev/icons?i=next,react,tailwind,prisma,fastapi)
+![Frameworks & librairies](https://skillicons.dev/icons?i=next,prisma,react,tailwind,fastapi)
 <!-- SKILLS:FRAMEWORKS:END -->
 
 **Outils & plateformes**
 
 <!-- SKILLS:TOOLS:START -->
-![Outils & plateformes](https://skillicons.dev/icons?i=docker,mysql,postgres,git,github,gitlab,gradle,androidstudio)
+![Outils & plateformes](https://skillicons.dev/icons?i=git,github,gitlab,docker,postgres,mysql,gradle,androidstudio)
 <!-- SKILLS:TOOLS:END -->
 
 ---

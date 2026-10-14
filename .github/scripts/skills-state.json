@@ -2,33 +2,85 @@
   "languages": {
     "pinned": [],
     "ranked": [
-      { "slug": "kotlin", "lastSignal": 0 },
-      { "slug": "ts", "lastSignal": 0 },
-      { "slug": "js", "lastSignal": 0 },
-      { "slug": "py", "lastSignal": 0 },
-      { "slug": "php", "lastSignal": 0 },
-      { "slug": "css", "lastSignal": 0 }
+      {
+        "slug": "ts",
+        "lastSignal": 70899
+      },
+      {
+        "slug": "js",
+        "lastSignal": 559
+      },
+      {
+        "slug": "css",
+        "lastSignal": 488
+      },
+      {
+        "slug": "kotlin",
+        "lastSignal": 0
+      },
+      {
+        "slug": "py",
+        "lastSignal": 0
+      },
+      {
+        "slug": "php",
+        "lastSignal": 0
+      }
     ]
   },
   "frameworks": {
     "pinned": [],
     "ranked": [
-      { "slug": "next", "lastSignal": 0 },
-      { "slug": "react", "lastSignal": 0 },
-      { "slug": "tailwind", "lastSignal": 0 },
-      { "slug": "prisma", "lastSignal": 0 },
-      { "slug": "fastapi", "lastSignal": 0 }
+      {
+        "slug": "next",
+        "lastSignal": 1
+      },
+      {
+        "slug": "prisma",
+        "lastSignal": 1
+      },
+      {
+        "slug": "react",
+        "lastSignal": 1
+      },
+      {
+        "slug": "tailwind",
+        "lastSignal": 1
+      },
+      {
+        "slug": "fastapi",
+        "lastSignal": 0
+      }
     ]
   },
   "tools": {
-    "pinned": ["git", "github", "gitlab"],
+    "pinned": [
+      "git",
+      "github",
+      "gitlab"
+    ],
     "ranked": [
-      { "slug": "docker", "lastSignal": 0 },
-      { "slug": "mysql", "lastSignal": 0 },
-      { "slug": "postgres", "lastSignal": 0 },
-      { "slug": "gradle", "lastSignal": 0 },
-      { "slug": "androidstudio", "lastSignal": 0 }
+      {
+        "slug": "docker",
+        "lastSignal": 3929
+      },
+      {
+        "slug": "postgres",
+        "lastSignal": 1
+      },
+      {
+        "slug": "mysql",
+        "lastSignal": 0
+      },
+      {
+        "slug": "gradle",
+        "lastSignal": 0
+      },
+      {
+        "slug": "androidstudio",
+        "lastSignal": 0
+      }
     ]
   },
-  "lastRunAt": null
+  "lastRunAt": "2026-10-14T17:01:42.850Z"
 }
